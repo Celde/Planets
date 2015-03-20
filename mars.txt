@@ -13,3 +13,5 @@ To do: Make deposit in IC
 		Try to get a schedule of some kind going. Something good
 
 But the mommy will apprieciat the lack of humidity.
+
+I need to change the note.
